@@ -1,9 +1,12 @@
+// instead of writing the options here I created a new class named options with every option
 using System;
+using System.IO;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the Journal Project.");
+        Options options = new Options();
+        options.OptionsGenerator();
     }
 }
