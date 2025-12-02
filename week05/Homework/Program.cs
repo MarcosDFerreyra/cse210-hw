@@ -4,6 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the Homework Project.");
+        Assingment assigment = new Assingment("juan gonzales", "Multiplication");
+        assigment.GetSummary();
+
+        
+        
     }
+    
 }
