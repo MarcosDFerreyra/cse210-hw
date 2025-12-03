@@ -1,4 +1,4 @@
-public class MathA : Assingment
+public class MathA : Assing
 {
     private string _textBookSection;
     private string _problems;

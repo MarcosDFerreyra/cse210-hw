@@ -1,9 +1,9 @@
-public class Assingment
+public class Assing
 {
     protected string _student;
     protected string _topic;
 
-    public Assingment(string student, string topic)
+    public Assing(string student, string topic)
     {
         _student = student;
         _topic = topic;
