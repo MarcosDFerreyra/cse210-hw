@@ -1,3 +1,4 @@
+//I made another activity, it's called Free activity, where the user can write about anything the want.//
 using System;
 using System.Reflection.Metadata;
 
