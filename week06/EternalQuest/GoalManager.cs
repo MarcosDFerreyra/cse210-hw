@@ -14,7 +14,7 @@ public class GoalManager
         string user = "";
         while (user != "6")
         {
-            Console.WriteLine();
+            DisplayPlayerInfo();
             Console.WriteLine();
             Console.WriteLine("Menu Options");
             Console.WriteLine(" 1. Create New Goal");
